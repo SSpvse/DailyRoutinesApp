@@ -5,6 +5,7 @@ HELP.md
 
 .DS_Store
 .idea/
+src/main/resources/config.env
 
 
 
